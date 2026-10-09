@@ -1,0 +1,6 @@
+{
+  "name": "HIRE SPHERE — Career & Placement Platform",
+  "description": "Your Skills. Your Future. Your Career. A comprehensive engineering placement, skill verification, resume readiness, and recruitment platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
